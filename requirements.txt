@@ -7,3 +7,4 @@ matplotlib==3.10.0
 jupyter==1.1.1
 ipykernel==6.29.5
 pathlib==1.0.1
+kagglehub
