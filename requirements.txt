@@ -1,3 +1,6 @@
+streamlit==1.42.0
+streamlit-image-zoom
+st-clickable-images
 torch==2.2.0
 torchvision==0.17.0
 torchmetrics==1.6.1
@@ -7,4 +10,5 @@ matplotlib==3.10.0
 jupyter==1.1.1
 ipykernel==6.29.5
 pathlib==1.0.1
+protobuf==3.20.*
 kagglehub
